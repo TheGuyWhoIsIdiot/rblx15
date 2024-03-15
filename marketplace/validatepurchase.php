@@ -1,0 +1,1 @@
+{"playerId": null, "placeId": 1818, "isValid": true, "productId": null}
