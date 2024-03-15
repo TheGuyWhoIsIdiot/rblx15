@@ -1,0 +1,15 @@
+/* simple custom profile css
+i don't know bootstrap :P
+*/
+
+.left-side
+{
+  width: 25rem;
+  display: block; /* other browsers may put divs not as block */
+}
+
+
+.user-image
+{
+  display: block;
+}
